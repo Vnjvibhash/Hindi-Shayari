@@ -28,13 +28,11 @@ _Whether you're a seasoned Shayari enthusiast or a newcomer to the world of Hind
 
 ### Install this App from Google PayStore.
 
+[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.technovateria.loveshayari)
+
 ```
   https://play.google.com/store/apps/details?id=com.technovateria.loveshayari&hl=en_IN&gl=US
 ```
-
-<a href="https://play.google.com/store/apps/details?id=com.technovateria.loveshayari">
-<img src="https://storage.googleapis.com/support-kms-prod/RMegDTOhnHDTGkktQbayRIgPdYRSjnafwL0N">
-</a>
 
 # Getting Started
 To run the Note App on your Android device, follow these steps:
