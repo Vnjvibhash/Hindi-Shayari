@@ -1,5 +1,5 @@
-/java/com/technovateria/loveshayari/MainActivity.java
-/java/com/technovateria/loveshayari/AllShayariActivity.java
-/java/com/technovateria/loveshayari/ContactUsActivity.java
-/res/layout
-/res/menu
+/java/in/innovateria/hindishayari/Activities/ContactUsActivity.java
+/java/in/innovateria/hindishayari/Activities/MainActivity.java
+/res/layout/activity_main.xml
+/res/layout/activity_contact_us.xml
+/res/layout/all_shayari.xml

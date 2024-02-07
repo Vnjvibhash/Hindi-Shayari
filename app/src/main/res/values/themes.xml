@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.HindiShayari" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Base.Theme.HindiShayari" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/red_pigment</item>
         <item name="colorPrimaryVariant">@color/red_pigment</item>
@@ -12,5 +12,11 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.HindiShayari" parent="Base.Theme.HindiShayari" />
+
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <item name="thumbTint">@color/red_pigment</item>
     </style>
 </resources>

@@ -1,11 +1,14 @@
 <resources>
-    <string name="app_name">Hindi Shayari</string>
+    <string name="app_name">Awesome Hindi Shayari &amp; Quotes</string>
+    <string name="select">Select Category</string>
+    <string name="my_image_description">This is the Awesome Shayari App Image</string>
+    <string name="awesome_shayari">AWESOME SHAYARI</string>
 
     <!--Ads unit id-->
-    <string name="adaptive_banner_ad_unit_id_main_activity">ca-app-pub-1000631987270327/1822142116</string>
-    <string name="adaptive_banner_ad_unit_id_AllShayari_activity">ca-app-pub-1000631987270327/4115478985</string>
-    <string name="app_open_ad_unit">ca-app-pub-1000631987270327/5975355562</string>
-    <string name="Interstitial_ad_unit">ca-app-pub-1000631987270327/8461918101</string>
-    <string name="Interstitial_backpress_ad_unit">ca-app-pub-1000631987270327/3689502379</string>
+    <!--    <string name="adaptive_banner_ad_unit_id_main_activity">#</string>-->
+    <!--    <string name="adaptive_banner_ad_unit_id_AllShayari_activity">#</string>-->
+    <!--    <string name="app_open_ad_unit">#</string>-->
+    <!--    <string name="Interstitial_ad_unit">#</string>-->
+    <!--    <string name="Interstitial_backpress_ad_unit">#</string>-->
 
 </resources>

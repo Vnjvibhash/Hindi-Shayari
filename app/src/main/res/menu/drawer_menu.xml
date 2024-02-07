@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:title="Rate us"
+        android:id="@+id/rate_us"
+        android:icon="@drawable/baseline_star_rate_24"/>
+
+    <item android:title="Share App"
+        android:id="@+id/share_app"
+        android:icon="@drawable/baseline_share_24"/>
+
+    <item android:title="More Apps"
+        android:id="@+id/more_app"
+        android:icon="@drawable/baseline_apps_24"/>
+
+    <item android:title="Contact us"
+        android:id="@+id/contact_us"
+        android:icon="@drawable/baseline_perm_phone_msg_24"/>
+
+    <item android:title="Privacy Policy"
+        android:id="@+id/privacy_policy"
+        android:icon="@drawable/baseline_lock_24"/>
+
+    <item android:title="I'm a Writer"
+        android:id="@+id/writer"
+        android:icon="@drawable/baseline_brush_24"/>
+</menu>
