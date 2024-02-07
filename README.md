@@ -35,9 +35,19 @@ _Whether you're a seasoned Shayari enthusiast or a newcomer to the world of Hind
 ```
 
 ### UI of the app
-<img alt="Get it on Google Play" height="80" src="C:\Users\Vivekajee\Music\Android\Java\Hindi-Shayari\assets\banner.png">
-<img alt="Get it on Google Play" height="80" src="C:\Users\Vivekajee\Music\Android\Java\Hindi-Shayari\assets\banner-1.png">
-<img alt="Get it on Google Play" height="80" src="C:\Users\Vivekajee\Music\Android\Java\Hindi-Shayari\assets\banner-2.png">
+<img alt="Get it on Google Play" src="/assets/banner.png">
+<div>
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image1.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image2.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image3.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image4.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image5.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image6.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image7.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image8.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image9.png">
+  <img alt="Get it on Google Play" height="400" src="/assets/previewed/image10.png">
+</div>
 
 
 # Getting Started
